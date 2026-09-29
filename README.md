@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Daniela 👋</h1>
-  <h3>Estudiante de Ingeniería de Sistemas · Full Stack · Java · Angular · Spring Boot</h3>
+  <h3>Estudiante de Ingeniería de Sistemas
   <p>📍 Bogotá, Colombia · 🎓 Pontificia Universidad Javeriana</p>
 </div>
 
