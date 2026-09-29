@@ -8,10 +8,10 @@
   <a href="https://github.com/Danielamn026">
     <img src="https://img.shields.io/badge/GitHub-Danielamn026-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:daniela.n@example.com">
+  <a href="mailto:danielamn026@gmail.com">
     <img src="https://img.shields.io/badge/Email-Daniela-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-usuario/">
+  <a href="https://www.linkedin.com/in/karem-daniela-medina-naranjo">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -24,15 +24,14 @@
 
 ## Sobre mí
 
-Soy desarrolladora apasionada por construir soluciones útiles, limpias y escalables. Me interesa el desarrollo backend y frontend, especialmente con Java, Spring Boot, Angular y bases de datos.
+Soy estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana. Me apasiona la tecnología y siempre estoy dispuesto a afrontar nuevos retos. Me gusta resolver problemas y aprender nuevas tecnologías.
 
 Actualmente estoy enfocada en:
 
-- Desarrollo full stack
-- APIs REST y arquitectura backend
-- Sistemas distribuidos
-- Integración frontend/backend
-- Docker y despliegues locales y en contenedores
+- Análisis de Datos
+- Inteligencia Artificial
+- Duseño de Sitemas
+- Nube
 
 ---
 
