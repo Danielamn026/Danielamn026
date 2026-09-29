@@ -80,6 +80,3 @@ Soy estudiante de octavo semestre de Ingeniería de Sistemas en la Pontificia Un
 - Arquitectura de software y buenas prácticas
 - Docker, integración y despliegues
 
----
-
-<p align="center">💬 Si quieres colaborar o conversar sobre tecnología, escríbeme.</p>
