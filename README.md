@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Daniela 👋</h1>
-  <h3>Estudiante de Ingeniería de Sistemas
+  <h3>Estudiante de Ingeniería de Sistemas</h3>
   <p>📍 Bogotá, Colombia · 🎓 Pontificia Universidad Javeriana</p>
 </div>
 
@@ -17,14 +17,7 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy estudiante de octavo semestre de Ingeniería de Sistemas en la Pontificia Universidad Javeriana (promedio 4.4 / 5.0) y monitora académica de Sistemas de Información. Me gusta resolver problemas, trabajar en equipo y aprender nuevas tecnologías.
-
-**Actualmente me enfoco en:**
-
-- 🤖 Inteligencia Artificial
-- 📊 Análisis de Datos
-- ☁️ Nube
-- 🏗️ Diseño de Sistemas
+Soy estudiante de octavo semestre de Ingeniería de Sistemas en la Pontificia Universidad Javeriana (promedio 4.4 / 5.0) y monitora académica de Sistemas de Información. Tengo experiencia en desarrollo Full Stack y de aplicaciones móviles, y participé en robótica competitiva con el semillero Javex Robotics. Me gusta resolver problemas, liderar y trabajar en equipo, y adaptarme rápido a nuevas tecnologías.
 
 ---
 
@@ -74,9 +67,11 @@ Soy estudiante de octavo semestre de Ingeniería de Sistemas en la Pontificia Un
 
 ## 🎯 Enfoque actual
 
-- Sistemas distribuidos
-- Backend con Java y Spring Boot
-- Frontend con Angular
-- Arquitectura de software y buenas prácticas
-- Docker, integración y despliegues
+- 📊 **Análisis de Datos:** limpieza, consulta y visualización de datos con Python y SQL.
+- 🤖 **Inteligencia Artificial:** fundamentos de IA, prompting y su uso responsable en el desarrollo de software.
+- ☁️ **Nube:** contenedores con Docker, despliegues y servicios en la nube.
+- 🏗️ **Diseño de Sistemas:** arquitectura de software, patrones de diseño y principios SOLID.
 
+---
+
+<p align="center">💬 Si quieres colaborar o conversar sobre tecnología, escríbeme.</p>
