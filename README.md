@@ -1,101 +1,85 @@
 <div align="center">
   <h1>Hola, soy Daniela 👋</h1>
-  <h3>Full Stack Developer • Java • Angular • Spring Boot</h3>
+  <h3>Estudiante de Ingeniería de Sistemas · Full Stack · Java · Angular · Spring Boot</h3>
+  <p>📍 Bogotá, Colombia · 🎓 Pontificia Universidad Javeriana</p>
 </div>
 
 <p align="center">
-  <a href="https://github.com/Danielamn026">
-    <img src="https://img.shields.io/badge/GitHub-Danielamn026-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:danielamn026@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Daniela-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/karen-daniela-medina-naranjo">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danielamn026&label=Profile%20views&color=green&style=flat-square" alt="Profile views" />
-</p>
-
----
-
-## Sobre mí
-
-Soy estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana. Me apasiona la tecnología y siempre estoy dispuesto a afrontar nuevos retos. Me gusta resolver problemas y aprender nuevas tecnologías.
-
-Actualmente estoy enfocada en:
-
-- Análisis de Datos
-- Inteligencia Artificial
-- Duseño de Sitemas
-- Nube
-
----
-
-## Stack principal
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-## Proyectos destacados
-
-<div align="center">
-  <a href="https://github.com/Danielamn026/airline-b2b-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielamn026&repo=airline-b2b-platform&theme=github_dark&hide_border=true" width="400" />
+  <a href="mailto:danielamn026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Danielamn026/distributed-systems-practice-repository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielamn026&repo=distributed-systems-practice-repository&theme=github_dark&hide_border=true" width="400" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Danielamn026/real-time-location-sharing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielamn026&repo=real-time-location-sharing&theme=github_dark&hide_border=true" width="400" />
-  </a>
-  <a href="https://github.com/Danielamn026/bpmn-visual-designer-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielamn026&repo=bpmn-visual-designer-front&theme=github_dark&hide_border=true" width="400" />
-  </a>
-</div>
-
----
-
-## Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielamn026&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielamn026&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## Enfoque actual
+## 👩‍💻 Sobre mí
 
-Estoy aprendiendo y construyendo proyectos en torno a:
+Soy estudiante de octavo semestre de Ingeniería de Sistemas en la Pontificia Universidad Javeriana (promedio 4.4 / 5.0) y monitora académica de Sistemas de Información. Me gusta resolver problemas, trabajar en equipo y aprender nuevas tecnologías.
+
+**Actualmente me enfoco en:**
+
+- 🤖 Inteligencia Artificial
+- 📊 Análisis de Datos
+- ☁️ Nube
+- 🏗️ Diseño de Sistemas
+
+---
+
+## 🛠️ Stack
+
+**Lenguajes**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks y herramientas**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Metodologías:** SOLID · Scrum · Kanban · UML · REST APIs · BPMN
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [**airline-b2b-platform**](https://github.com/Danielamn026/airline-b2b-platform) | Plataforma B2B para la gestión de servicios de aerolíneas. | Java · Spring Boot |
+| [**bpmn-visual-designer-front**](https://github.com/Danielamn026/bpmn-visual-designer-front) | Interfaz web para modelar y visualizar diagramas BPMN. | Angular · TypeScript |
+| [**real-time-location-sharing**](https://github.com/Danielamn026/real-time-location-sharing) | Aplicación para compartir ubicación en tiempo real. | Kotlin · Android |
+| [**distributed-systems-practice-repository**](https://github.com/Danielamn026/distributed-systems-practice-repository) | Prácticas y talleres de sistemas distribuidos. | Java |
+
+---
+
+## 📜 Certificaciones
+
+- **Administración de sistemas de Red Hat I (RH125)** · Red Hat · 2024
+- **Fundamentos de Ingeniería de Software** · Platzi · 2026
+- **Fundamentos de IA, prompting y sostenibilidad con tecnología** · IBM SkillsBuild · 2026
+
+---
+
+## 🎯 Enfoque actual
 
 - Sistemas distribuidos
-- Backend con Java y Spring
-- Frontend moderno con Angular
+- Backend con Java y Spring Boot
+- Frontend con Angular
 - Arquitectura de software y buenas prácticas
 - Docker, integración y despliegues
 
-> “Me gusta crear soluciones que combinen claridad, rendimiento y experiencia de usuario.”
-
 ---
 
-Si quieres, te hago una segunda versión todavía más premium, más minimalista o más estilo “GitHub profile moderno” para que se vea exactamente con ese look oscuro y elegante.
+<p align="center">💬 Si quieres colaborar o conversar sobre tecnología, escríbeme.</p>
