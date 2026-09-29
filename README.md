@@ -64,11 +64,12 @@ Soy estudiante de octavo semestre de Ingeniería de Sistemas en la Pontificia Un
 - **Fundamentos de IA, prompting y sostenibilidad con tecnología** · IBM SkillsBuild · 2026
 
 ---
+
+## 🎯 Enfoque actual
+
 - 📊 **Análisis de Datos:** limpieza, consulta y visualización de datos con Python y SQL.
 - 🤖 **Inteligencia Artificial:** fundamentos de IA, prompting y su uso responsable en el desarrollo de software.
 - ☁️ **Nube:** contenedores con Docker, despliegues y servicios en la nube.
 - 🏗️ **Diseño de Sistemas:** arquitectura de software, patrones de diseño y principios SOLID.
 
 ---
-
-<p align="center">💬 Si quieres colaborar o conversar sobre tecnología, escríbeme.</p>
