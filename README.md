@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Danielamn026.png" width="180" alt="Daniela" />
   <h1>Hola, soy Daniela 👋</h1>
   <h3>Full Stack Developer • Java • Angular • Spring Boot</h3>
 </div>
