@@ -11,7 +11,7 @@
   <a href="mailto:danielamn026@gmail.com">
     <img src="https://img.shields.io/badge/Email-Daniela-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/karem-daniela-medina-naranjo">
+  <a href="https://www.linkedin.com/in/karen-daniela-medina-naranjo">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
